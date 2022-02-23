@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /Users/darkhero/Desktop/SPbU/2 course/C++/petrov.vladimir/lab_06 Select CMakeLists.txt
